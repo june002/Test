@@ -1,0 +1,5 @@
+﻿  Player.cpp
+d:\directx\047_animation_190128\framework\components\player.cpp(180): warning C4700: 초기화되지 않은 'col' 지역 변수를 사용했습니다.
+  Framework.vcxproj -> D:\Directx\047_Animation_190128\Debug\Framework.lib
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
